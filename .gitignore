@@ -1,0 +1,48 @@
+# Laravel
+/backend/vendor/
+/backend/node_modules/
+/backend/public/hot
+/backend/public/storage
+/backend/storage/*.key
+/backend/.env
+/backend/.env.backup
+/backend/.phpunit.result.cache
+/backend/Homestead.json
+/backend/Homestead.yaml
+/backend/npm-debug.log
+/backend/yarn-error.log
+/backend/.DS_Store
+
+# Nuxt
+/frontend/.nuxt/
+/frontend/.output/
+/frontend/dist/
+/frontend/node_modules/
+/frontend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+.docker/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
